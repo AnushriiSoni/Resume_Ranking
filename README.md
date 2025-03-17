@@ -40,7 +40,7 @@ The Resume Ranking App is a powerful tool that streamlines the recruitment proce
 Contributions are welcome! Fork the repository, make changes, and open a pull request.
 
 ## 📧 Contact
-For queries or feedback, reach out at: [Your Email](anushriisoni@gmail.com)
+For queries or feedback, reach out at: anushriisoni@gmail.com
 
 ## 📜 License
 This project is licensed under the MIT License.
